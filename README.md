@@ -1,2 +1,8 @@
-# Image-Classification-App-with-Custom-TensorFlow-Model
-Learn how to code your own neural network in Python, then deploy it in an Image Classification App using TensorFlow Lite.
+# Guess My Cake!
+Final Project for the Data Analisys Bootcamp in Ironhack
+
+There are 2 main parts:
+Cake_Model.ipynb -> Creates a ML Model and saves it as a normal model and as Tensorflow Lite
+The Rest -> Files to create an Android APP which runs the TFLite Model
+
+
